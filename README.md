@@ -3,7 +3,7 @@
 
 ## Description
 
-
+This website generates a password every time the generate password button is pushed. It asks the user what type of characters they would like to use and not use in their password and then generates the password.
 
 
 ## Table of Contents
@@ -24,11 +24,11 @@ or just vist the website:
 
 ## Usage
 
-
+To use this application, navigate to the deployed website and click the generate button to get started. Once this button is pushed, the window will ask you questions about the characters you want to use in your password. Once all questions are answered, the application will give you your password.
 
 ## Roadmap
 
-Down the road, I would like to add 
+Down the road, I would like to add a place on the website where you can save all the password you want. 
 
 
 ## Contributing
