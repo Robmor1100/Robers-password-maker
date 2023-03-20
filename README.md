@@ -18,7 +18,7 @@ This website generates a password every time the generate password button is pus
 
 Clone the repository and play  around with it.
 
-or just vist the website: 
+or just vist the website: [label](https://robmor1100.github.io/Robers-password-maker/)
 
 
 
